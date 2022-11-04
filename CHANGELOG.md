@@ -1,5 +1,12 @@
 # Semantic Release Docker
 
+## [1.0.1](https://github.com/sambunting/semantic-release-docker/compare/v1.0.0...v1.0.1) (2022-11-04)
+
+
+### Bug Fixes
+
+* set the network flag from config value [6ff9a87](https://github.com/sambunting/semantic-release-docker/commit/6ff9a872feb3cebd6026a7a13de3d1765e6f10ee) - Sam Bunting
+
 # 1.0.0 (2022-11-04)
 
 
